@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 
 API_KEY = "TXQ8APATHEM6J9WF"
-STOCK_SYMBOL = "EWZ"
+STOCK_SYMBOL = "TSLA"
 def get_daily_stock_data(symbol: str):
 
 
