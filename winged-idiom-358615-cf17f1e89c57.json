@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "winged-idiom-358615",
+  "private_key_id": "cf17f1e89c57b696c4b9255f88e0100f28bce961",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDZTLwGOQuUpNI\nfz+IoJYh2SvpvcxzLLJsKfbajVwasUma3arbd5kZcWfLlVwOg5s4HcBGLB3/MQoN\nEhRYSbxsm6dekN/LUixKv01qVuCjab7/G2SsLL5dN9arJWeCS17om69MeNdkqQTx\n/S/i9ql3+uwsw+f3rv598SrWj13qNed6eUTprYDJmeol97bQzKVIkUFncR771TIo\n1aEB7zRTbpXdy499eU4zyLqU1WRqrkI9t3hSjHGKIrCbdptC5M79UgBolNlkyH2c\nDTgPDW2MyORWAvDqOSWJ+GRPf7zXZY/7AoUHVAMjQPEar++03GwiH7sf7BOwukq/\nWjYDEuF5AgMBAAECggEAD/kF99dbENfWeyTOz2cMOs5fXvtRWyFuYPXxvGY1nyd6\nvD6OZOQzF1+8Q8nNBZE31zekZAAfgCDUwOKHV/vIG8tCHHKEnuDz5rTaedzJ/oXK\nk51cRpBeS+3Afktfmai6ZJK0evB+cBe6hCMlvtyZ2ClilNq7a9WJ74bvUOyVmWuD\n0+ewzBHMbD3PbQcB9qTJJou/dBkiF1Fd7dc4qlqCw5iBDSTGfqBzu4P9m8pjly/G\n3pSCUC+FuFw3/YTsSPPDdIqFcChPgne+LHpz1FmseQxMtf3olH+aEs1KaLewY+Un\nkCYUMz4k/pM6ZJjEicMyCZSQxFTiQpgVBxBSWAhd8QKBgQDidfxM/pRvsvblBLjK\n2R1WSw4B20drva5jOZK6gG1jjV98zrC8x9bd9CfBev2Er+J2nb4Z34He8dqTiR3Y\nzlWafIjJ1Zi+WKD4Tq0uCJnNZ5ErpO/23XAT3dVyWuWM+oToq1AS6WO1NlYRvwhj\n2ohCdQfkpqPQKNW1YVgPYBAgEQKBgQDc4d4KBbKKDydBg3JBOdYt4Kxuv4Vue6uY\njUKHoEEIKzlcwDJhWGEkPiMGXBQr/YJ8NS/zNJnFB/ga+06Gbo9jgjDXTplf6/ED\n/54bzG3XEztOC+OWw5Oi7iO2KJxzmvr/L0S3NcXQA7ZH9f21Gfj/1WHvYur40JAZ\nt7URHFyS6QKBgHe1LJg6npZpAM/Q7in0GOjrpczfb+KJEuzKm0BQ8QIF0ir0S0KP\nVIphLL6+19JS8yAGhF3C4zDJoeQJQCjB8UhHejtO2H4N9ZEsbaj+zOZiT7/FYT+a\nkEtAITtgxyT9rFIddKd6jcVVoqug0ruN4idXG8QHPmKjo0xM17LQ8dUxAoGAWh6h\njC9E6AVEu/sYe7pQQ4mecNUdaLV2jphb46AjyGRyVABqzcLUZ4genDKnXEdjnK/K\nr4zvjC8zMDcGk9y6DhyJNt9vvm4yeLIrXSYsTosfMDmzksibDOfilCi/pH9AFyu+\n+o0q9zL8hSG9cM13BVKXUadnPTtC/+svKhsLPjkCgYByOjDuiboKUV+jCrHNRCaC\n47vZ0dvzcbJJZIZgni4eIyITKPffddNSAHpOS7QSit3ioAlFEO15rNKQRIPS2VaM\nEIrkFWYrB0RGsDNyaNjf1/9eU35Or4ASdQi2tB6WndCW4fyNEWQl4d1bQX5sHaz8\nT5kDh5u42coXp4EK+dd4ew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gmailpythonjson@winged-idiom-358615.iam.gserviceaccount.com",
+  "client_id": "109096057535213298434",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gmailpythonjson%40winged-idiom-358615.iam.gserviceaccount.com"
+}
