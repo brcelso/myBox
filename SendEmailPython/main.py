@@ -8,7 +8,7 @@ class YourAutoReplyer(AutoReplyer):
         imap_password = 'eyoqlfiiurvoicub'
         smtp_server = 'smtp.gmail.com'
         smtp_port = 465  # Custom port, only use if the default one doesn’t work.
-        smtp_user = 'celsosilvajunior90@gmaill.com'
+        smtp_user = 'celsosilvajunior90@gmail.com'
         smtp_password = 'eyoqlfiiurvoicub'
         from_address = 'Celso da Silva Junior <celsosilvajunior90@gmail.com>'
         body = '''

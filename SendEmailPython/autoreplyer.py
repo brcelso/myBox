@@ -60,14 +60,14 @@ class AutoReplyer:
     refresh_delay = 5  # seconds
 
     imap_server = None
-    imap_use_ssl = False
+    imap_use_ssl = True
     imap_port = IMAP4_PORT
     imap_ssl_port = IMAP4_SSL_PORT
     imap_user = None
     imap_password = None
 
     smtp_server = None
-    smtp_use_ssl = False
+    smtp_use_ssl = True
     smtp_port = SMTP_PORT
     smtp_ssl_port = SMTP_SSL_PORT
     smtp_user = None
