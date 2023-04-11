@@ -8,7 +8,7 @@ id_modelo = "gpt-3.5-turbo"
 
 body_mensagem = {
     "model": id_modelo,
-    "messages": [{"role": "user", "content":"crie um codigo python para uma calculadora"}]
+    "messages": [{"role": "user", "content":"whats is a token of gpt"}]
 }
 body_mensagem = json.dumps(body_mensagem)
 
