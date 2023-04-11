@@ -4,31 +4,28 @@ class YourAutoReplyer(AutoReplyer):
         
         imap_server = 'imap.gmail.com'
         imap_port = 993  # Custom port, only use if the default one doesn’t work.
-        imap_user = 'celsosilvajunior90@gmail.com'
-        imap_password = 'eyoqlfiiurvoicub'
+        imap_user = 'gillthebot@gmail.com'
+        imap_password = 'xuigobopavjgqaql'
         smtp_server = 'smtp.gmail.com'
         smtp_port = 465  # Custom port, only use if the default one doesn’t work.
-        smtp_user = 'celsosilvajunior90@gmail.com'
-        smtp_password = 'eyoqlfiiurvoicub'
-        from_address = 'Celso da Silva Junior <celsosilvajunior90@gmail.com>'
+        smtp_user = 'gillthebot@gmail.com'
+        smtp_password = 'xuigobopavjgqaql'
+        from_address = 'Gill The Bot <gillthebot@gmail.com>'
         body = '''
         Hello,
-        I’m on vacation until a date I should mention here.
-        You’ll have an answer when I’m back.
-        Call Django in case of emergency.
+        I’m Gill The Bot.
         Have a nice day,
-        You
+        Gill
         '''
         body_html = '''
         <p>Hello</p>,
         <p>
-            I’m on vacation until a date I should mention here.<br />
-            You’ll have an answer when I’m back.<br />
+            I’m Gill The Bot.<br />
             Call <a href="tel:+1234567890">Django</a> in case of emergency.
         </p>
         <p>
             Have a nice day,<br />
-            You
+            Gill
         </p>
         '''
 YourAutoReplyer().run()

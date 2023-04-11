@@ -4,7 +4,7 @@ import smtplib
 smtp_server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 
 # login to your Gmail account
-smtp_server.login('celsosilvajunior90@gmail.com', 'eyoqlfiiurvoicub')
+smtp_server.login('celsosilvajunior90@gmail.com', 'faxbnspldnkhacqv')
 
 # create your email message
 sender_email = 'celsosilvajunior90@gmail.com'

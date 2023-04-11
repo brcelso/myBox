@@ -2,12 +2,12 @@ import smtplib
 
 smtp_server = 'smtp.gmail.com'
 port = 587  # For SSL
-sender_email = "<celsosilvajunior90@gmail.com"  # Enter your address
-receiver_email = "<cassius1561@gmail.com"  # Enter receiver address
-password = "eyoqlfiiurvoicub"
+sender_email = "celsosilvajunior90@gmail.com"  # Enter your address
+receiver_email = "gillthebot@gmail.com"  # Enter receiver address
+password = "faxbnspldnkhacqv"
 
 message = """\
-Subject: Costela
+Subject: BotTest
 
 This message is sent from Python."""
 
