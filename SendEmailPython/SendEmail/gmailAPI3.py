@@ -8,7 +8,7 @@ smtp_server.login('celsosilvajunior90@gmail.com', 'faxbnspldnkhacqv')
 
 # create your email message
 sender_email = 'celsosilvajunior90@gmail.com'
-receiver_email = 'felipe.brolesi@luizalabs.com'
+receiver_email = 'kleber.storani@luizalabs.com'
 subject = 'Ola Garoto'
 body = 'Como foi seu natal?'
 

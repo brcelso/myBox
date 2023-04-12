@@ -11,6 +11,6 @@ msg = "Hello, this is a test email sent using Python!"
 
 # Send email every 5 minutes
 while True:
-    server.sendmail("gillthebot", "celsosilvajunior90@gmail.com", msg)
+    server.sendmail("gillthebot", "kleber.storani@luizalabs.com", msg)
     print("Email sent!")
     time.sleep(300)
